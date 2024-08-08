@@ -1077,4 +1077,24 @@ and foster consistent coding standards.
 
 # LESSON SUMMARY MODULE 2
 
+At this point, you have learned about some of the applications of Generative AI across domains. You explored some common Generative AI tools for text, image, and code generation. You even had the opportunity to see the generation in action through hands-on lab experiences. 
 
+Specifically, you learned that:
+
+- Generative AI has been applied to numerous fields, including IT and DevOps, entertainment, finance, medicine, and human resources.
+
+- In the workplace, the application of Generative AI is changing how we work and making us more efficient and successful in what we do. 
+
+- Generative AI has the capability for text generation. Text generation tools can generate different kinds of text, translate languages, and answer questions. 
+
+- There are two popular text generation tools: OpenAI’s ChatGPT and Google Bard. ChatGPT is more effective for maintaining conversational flow, and Bard is a better choice for research.
+
+- Generative AI tools can also produce new images through text or image prompts. These image generation tools can transform images through techniques like image-to-image translation, style transfer, inpainting, or outpainting. 
+
+- Some common image generation models include DALL-E, Stable Diffusion, and StyleGAN. In addition, numerous Generative AI tools are available for image generation and transformation. 
+
+- Microsoft provides Bing Image Creator for image generation, and Adobe Firefly is a family of Generative AI tools for Adobe’s Creative Cloud applications. 
+
+- Generative AI tools can generate new code, produce optimized versions of existing code, or convert code from one programming language to another. 
+
+- A few prominent code generators are GPT, GitHub Copilot, PolyCoder, and IBM Watson. ChatGPT and Bard can be valuable tools for basic code generation. However, these tools have limitations based on their training.
