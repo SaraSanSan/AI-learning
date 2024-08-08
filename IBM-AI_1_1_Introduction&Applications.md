@@ -1,5 +1,5 @@
 # | Generative AI: Introduction and Applications |
-# | INTRODUCTION AND CAPABILITIES OF GENERATIVE AI |
+# → INTRODUCTION AND CAPABILITIES OF GENERATIVE AI
 
 In this module, you will learn the fundamentals of generative artificial intelligence (AI) and how it differs from discriminative AI. You will also discover the capabilities of generative AI for generating text, image, code, speech, and video as well as for data augmentation.
 
