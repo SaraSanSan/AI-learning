@@ -172,101 +172,117 @@ You learned the concept of prompt hacks in generative AI. You also learned how t
 
 # Prompt Engineering using IBM WATSONX
 
-##
+In this optional lesson you will explore the Prompt Lab in IBM watsonx.ai. This is optional because it requires you to access IBM watsonx platform, which may not be available to everyone. Normally a credit card is required to access watsonx.ai. However, for learners in this course we are providing you with a feature code that will enable you to sign up without a credit card. 
 
-##
+To complete the lab you will need to perform the following:
 
-## 
+	Obtain a feature code for an IBM Cloud account.
+ 	Create the IBM cloud account using the feature code.
+  	Provision your instance for watsonx.ai and explore the Prompt Lab.
+
+The next steps will be the following hands-on lab:
+
+	Obtain IBM Cloud Feature Code and Activate Trial Account
+	Creating an IBM Cloud Account
+	Exploring watsonx Prompt Lab
 
 
 
 # GLOSSARY
 
-- API integration:	Application programming interface integration refers to the process of connecting different software systems or applications through their APIs to enable them to work together and share data or functionality.
+- API integration: Application programming interface integration refers to the process of connecting different software systems or applications through their APIs to enable them to work together and share data or functionality.
 
-- Bias mitigation:	A technique in which text prompts provide explicit instructions to generate neutral responses.
+- Bias mitigation: A technique in which text prompts provide explicit instructions to generate neutral responses.
 
-- Chain-of-Thought:	An approach to prompt engineering that involves breaking down a complex task into smaller and easier ones through a sequence of more straightforward prompts.
+- Chain-of-Thought: An approach to prompt engineering that involves breaking down a complex task into smaller and easier ones through a sequence of more straightforward prompts.
 
-- ChatGPT:	A language model designed to provide detailed responses to natural language input.
+- ChatGPT: A language model designed to provide detailed responses to natural language input.
 
-- Claude:	A powerful and flexible AI chatbot to help you with your tasks.
+- Claude: A powerful and flexible AI chatbot to help you with your tasks.
 
-- Contextual guidance:	A technique using which text prompts provide specific instructions to the LLMs to generate relevant output.
+- Contextual guidance: A technique using which text prompts provide specific instructions to the LLMs to generate relevant output.
 
-- DALL-E:	Text-to-image model that generates digital images from natural language descriptions.
+- DALL-E: Text-to-image model that generates digital images from natural language descriptions.
 
-- Domain expertise:	A technique wherein text prompts can use domain-specific terminology to generate content in specialized fields like medicine, law, or engineering, where accuracy and precision are crucial.
+- Domain expertise: A technique wherein text prompts can use domain-specific terminology to generate content in specialized fields like medicine, law, or engineering, where accuracy and precision are crucial.
 
 - Dust: A prompt engineering tool that provides a web user interface for writing prompts and chaining them together.
 
-- Explainability 	Refers to the degree to which a user can understand and interpret the model's decision-making process and the reasons behind its generated outputs.
+- Explainability: Refers to the degree to which a user can understand and interpret the model's decision-making process and the reasons behind its generated outputs.
 
-- Few-shot prompting 	A method that enables context learning, wherein demonstrations are provided in the prompt to steer the model to better performance.
+- Few-shot prompting: A method that enables context learning, wherein demonstrations are provided in the prompt to steer the model to better performance.
 
-- Framing 	A technique by which text prompts guide LLMs to generate responses within the required boundaries.
+- Framing: A technique by which text prompts guide LLMs to generate responses within the required boundaries.
 
-- Generative AI 	A type of artificial intelligence that can create new content, such as text, images, audio, and video.
+- Generative AI: A type of artificial intelligence that can create new content, such as text, images, audio, and video.
 
-- Generative AI models 	Models that can understand the context of input content to generate new content. In general, they are used for automated content creation and interactive communication.
+- Generative AI models: Models that can understand the context of input content to generate new content. In general, they are used for automated content creation and interactive communication.
 
-- GPT 	Generative pre-trained transformers or GPT are a family of neural networks that uses transformer architecture to create human-like text or content as output.
+- GPT: Generative pre-trained transformers or GPT are a family of neural networks that uses transformer architecture to create human-like text or content as output.
 
-- IBM watsonx.ai 	A platform of integrated tools to train, tune, deploy, and manage foundation models easily.
+- IBM watsonx.ai: A platform of integrated tools to train, tune, deploy, and manage foundation models easily.
 
-- Integrated Development Environment (IDE) 	A software tool for crafting and executing prompts that engage with language models.
+- Integrated Development Environment (IDE): A software tool for crafting and executing prompts that engage with language models.
 
-- Input data 	Any piece of information provided as part of the prompt.
+- Input data: Any piece of information provided as part of the prompt.
 
-- Interview pattern approach 	A prompt engineering strategy that involves designing prompts by simulating a conversation or interacting with the model in the style of an interview.
+- Interview pattern approach: A prompt engineering strategy that involves designing prompts by simulating a conversation or interacting with the model in the style of an interview.
 
-- LangChain 	A Python library that provides functionalities for building and chaining prompts.
+- LangChain: A Python library that provides functionalities for building and chaining prompts.
 
-- Large language models (LLMs) 	A type of deep learning model trained on massive amounts of text data to learn the patterns and structures of language. They can perform language-related tasks, including text generation, translation, summarization, sentiment analysis, and more.
+- Large language models (LLMs): A type of deep learning model trained on massive amounts of text data to learn the patterns and structures of language. They can perform language-related tasks, including text generation, translation, summarization, sentiment analysis, and more.
 
-- Midjourney 	A text-to-image model that generates images from natural language requests.
+- Midjourney: A text-to-image model that generates images from natural language requests.
 
-- Naive prompting 	Asking queries from the model in the simplest possible manner.
+- Naive prompting: Asking queries from the model in the simplest possible manner.
 
-- Natural language processing (NLP) 	A branch of artificial intelligence that enables computers to understand, manipulate, and generate human language (natural language).
+- Natural language processing (NLP): A branch of artificial intelligence that enables computers to understand, manipulate, and generate human language (natural language).
 
-- OpenAI Playground 	A web-based tool that helps to experiment and test prompts with various models of OpenAI, such as GPT.
+- OpenAI Playground: A web-based tool that helps to experiment and test prompts with various models of OpenAI, such as GPT.
 
-- Output indicator 	Benchmarks for assessing the attributes of the output generated by the model.
+- Output indicator: Benchmarks for assessing the attributes of the output generated by the model.
 
-- Prompt 	Instructions or questions given to a generative AI model to generate new content.
+- Prompt: Instructions or questions given to a generative AI model to generate new content.
 
-- Prompt engineering 	The process of designing effective prompts to generate better and desired responses.
+- Prompt engineering: The process of designing effective prompts to generate better and desired responses.
 
-- PromptBase 	A marketplace for selling and buying prompts.
+- PromptBase: A marketplace for selling and buying prompts.
 
-- Prompt lab 	A tool that enables users to experiment with prompts based on different foundation models and build prompts based on their needs.
+- Prompt lab: A tool that enables users to experiment with prompts based on different foundation models and build prompts based on their needs.
 
-- PromptPerfect 	A tool used to optimize prompts for different LLMs or text-to-image models.
+- PromptPerfect: A tool used to optimize prompts for different LLMs or text-to-image models.
 
-- Role-play/Persona pattern 	Specific format or structure for constructing prompts that involve the perspective of a character or persona.
+- Role-play/Persona pattern: Specific format or structure for constructing prompts that involve the perspective of a character or persona.
 
-- Scale AI 	A technology company that specializes in data labeling and data annotation services.
+- Scale AI: A technology company that specializes in data labeling and data annotation services.
 
-- Stable Diffusion 	A text-to-image model that generates detailed images based on text descriptions.
+- Stable Diffusion: A text-to-image model that generates detailed images based on text descriptions.
 
-- StableLM 	An open-source language model based on a dataset that contains trillions of tokens of content.
+- StableLM: An open-source language model based on a dataset that contains trillions of tokens of content.
 
-- Tree-of-Thought 	An approach to prompt engineering that involves hierarchically structuring a prompt or query, akin to a tree structure, to specify the desired line of thinking or reasoning for the model.
+- Tree-of-Thought: An approach to prompt engineering that involves hierarchically structuring a prompt or query, akin to a tree structure, to specify the desired line of thinking or reasoning for the model.
 
-- User feedback loop 	A technique wherein users provide feedback to text prompts and iteratively refine them based on the response generated by the LLM.
+- User feedback loop: A technique wherein users provide feedback to text prompts and iteratively refine them based on the response generated by the LLM.
 
-- Zero-shot prompting 	A method using which generative AI models generate meaningful responses to prompts without needing prior training on those specific prompts.
+- Zero-shot prompting: A method using which generative AI models generate meaningful responses to prompts without needing prior training on those specific prompts.
 
 
 
 # FINAL PROJECT: Applying Prompt Engineering Techniques and Best Practices
 
 
-
 # WRAP-UP
 
-## 
+Congratulations on successfully completing this course! We hope you found it enriching.
 
-## Next Steps
+In this course, you learned about prompts and prompt engineering in generative AI. You learned that writing effective prompts involves four key dimensions: clarity, context, precision, and role-play.
 
+You explored common prompt-engineering tools like IBM watsonx Prompt Lab, Spellbook, Dust, and PromptPerfect.
+
+You gained knowledge of text-prompt techniques like zero-shot and few-shot, which improve the reliability and quality of large language models (LLMs).
+
+You were also introduced to various prompt engineering approaches: Interview Pattern, Chain-of-Thought, and Tree-of-Thought.
+
+This foundational knowledge of prompt engineering will enable you to effectively utilize the capabilities of generative AI to produce precise and relevant responses.
+
+This concludes the Generative AI: Prompt Engineering course. However, it only marks a milestone in your ongoing journey to delve deeper into the world of generative AI.
