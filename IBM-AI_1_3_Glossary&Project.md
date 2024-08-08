@@ -1,4 +1,5 @@
-# | COURSE QUIZ, PROJECT AND WRAP-UP |
+# | Generative AI: Introduction and Applications |
+# - COURSE QUIZ, PROJECT AND WRAP-UP
 
 This module includes a graded quiz to test and reinforce your understanding of concepts covered in the course. The module also includes a glossary to enhance your comprehension of generative AI-related terms. The module includes an optional project, which provides an opportunity to practice generating text, images, and code through generative AI. Finally, the module guides you about the next steps in your learning journey.
 
