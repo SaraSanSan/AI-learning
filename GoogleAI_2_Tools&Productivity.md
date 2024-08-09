@@ -479,7 +479,7 @@ You’ve already learned that there are different ways to use generative AI to m
 
 The generative AI tools that you’ll use will depend on your industry, role, and specific workplace needs. Please note that each tool’s uses are not limited to the industries listed here. Also note that the cost varies for each tool. Some tools in this list are free or offer a free trial; others require a paid subscription to access. The examples that follow include whether the tool is stand-alone, integrated, or both. Stand-alone means it’s an individual organization and tool that you can add and use in your workflow. Integrated means the tool is part of an existing type of software, which you’ll need to access if you want to use that AI feature set.
 
-### - Conversational AI tools
+### - Conversational AI tools -
 
 Conversational AI includes general-purpose tools that can simulate a human conversation, as well as provide answers to questions on a wide variety of subjects. Workers might use conversational AI tools to help with work tasks, such as brainstorming or finding answers to low-stakes questions. 
 
@@ -511,7 +511,7 @@ ChatGPT
 
         Stand-alone or integrated: Stand-alone
 
-### - Productivity and writing assistants
+### - Productivity and writing assistants -
 
 AI productivity and writing assistants can help with workplace tasks. They might provide grammar or spelling suggestions, generate a summary of a long document, or solve problems. Here are some examples: 
 
@@ -563,7 +563,7 @@ AI by Zapier
 
         Stand-alone or integrated: Integrated
 
-### - Code generative AI tools
+### - Code generative AI tools -
 
 Code-generating tools can help generate, edit, or complete code for a variety of programming tasks in many different programming languages. Examples include:
 
@@ -607,7 +607,7 @@ Jupyter AI
 
         Stand-alone or integrated: Integrated
 
-### - Image and media generative AI tools
+### - Image and media generative AI tools -
 
 Media-generating AI tools help workers with tasks like generating and editing images, video, and speech. Examples include:
 
@@ -666,6 +666,7 @@ Runway
         Example industries: Content creation, design, marketing, production
 
         Stand-alone or integrated: Stand-alone
+
 
 _A final thought: This is a limited list. It’s worth exploring the world of AI tools to find others that are suitable for your work._
 
