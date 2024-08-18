@@ -1,6 +1,6 @@
 # | Generative AI: Enhance your Data Analytics Career |
 
-# DATA ANALYTICS AND GENERATIVE AI
+# → DATA ANALYTICS AND GENERATIVE AI
 
 This module introduces Generative AI for Data Analytics. You will explore several generative AI tools used in data analytics and gain insights into implementing them successfully. The module covers using generative AI for tasks like data generation and augmentation, data preparation, querying databases, and obtaining insights from Q&A models.
 
