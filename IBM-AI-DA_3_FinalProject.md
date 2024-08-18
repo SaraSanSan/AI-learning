@@ -1,6 +1,6 @@
 # | Generative AI: Enhance your Data Analytics Career |
 
-# < FINAL PROJECT & EXAM >
+# → FINAL PROJECT & EXAM
 
 In this module, you will complete a guided practice project where you will use a real-world data set and practice generative AI to generate Python codes that can perform data preparation, analysis, visualization and dashboarding. In addition, you will attempt a final graded exam designed to evaluate your understanding of generative AI.
 
