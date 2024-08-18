@@ -1438,73 +1438,64 @@ At this point in the course, you know:
 
 Create dataset in a particular domain:
 
-  " Create <…..> dataset for <…..> "
+    " Create <…..> dataset for <…..> "
 
-  _Create patient data set for the symptoms of diabetes_
+    _Create patient data set for the symptoms of diabetes_
 
 
 Create dataset with specific attributes and format:
 
-  " Create a dataset with attributes as <…..> in a <…..> format "
+    " Create a dataset with attributes as <…..> in a <…..> format "
   
-  _Create a dataset with attributes as temperature in Fahrenheit, Temperature Category, Humidity in percentage, Rain and Snow as categorical type in yes or no categories, Month, Year in a CSV format_
+    _Create a dataset with attributes as temperature in Fahrenheit, Temperature Category, Humidity in percentage, Rain and Snow as categorical type in yes or no categories, Month, Year in a CSV format_
 
 
 Get the insights through Q&A: Finding hiehest value within the data attribute:
 
-  " Identify the <…..> with the highest <…..> "
+    " Identify the <…..> with the highest <…..> "
   
-  _Identify the products with the highest sales_
-  
-  _What are the top-selling products?_
+    _Identify the products with the highest sales_
+    _What are the top-selling products?_
 
 
 Get the insights through Q&A: See patterns of a data attribute over a period of time:
 
-  " How has <…..> changed over time? "
+    " How has <…..> changed over time? "
   
-  _How has the quantity ordered changed over time?_
+    _How has the quantity ordered changed over time?_
 
 
 Identify missing data:
 
-  " Write a <…> code to Identify <…..> missing values. "
+    " Write a <…> code to Identify <…..> missing values. "
+    " Identify the attributes with missing data "
   
-  " Identify the attributes with missing data "
-  
-  _Write a python code to Identify the columns with missing values (ChatGPT)_
-  
-  _Identify the attributes with missing data (ChatCSV)_
+    _Write a python code to Identify the columns with missing values (ChatGPT)_
+    _Identify the attributes with missing data (ChatCSV)_
 
 
 Handling missing values:
 
-  " Write a <…> code to replace missing values with <…..> in the dataset "
+    " Write a <…> code to replace missing values with <…..> in the dataset "
+    " Replace the missing values <…> in the <…> and save the updated dataset "
   
-  " Replace the missing values <…> in the <…> and save the updated dataset "
-  
-  _Write a python code to replace missing values with mean values in the dataset (ChatGPT)_
-  
-  _Replace the missing values with the mean value in the Screen_size_cm column and save the updated dataset (ChatCSV)_
+    _Write a python code to replace missing values with mean values in the dataset (ChatGPT)_
+    _Replace the missing values with the mean value in the Screen_size_cm column and save the updated dataset (ChatCSV)_
 
 
 Join two tables:
   
-  " Write a SQL query to join <…..> with <…..> on the <…..> as a primary key "
+    " Write a SQL query to join <…..> with <…..> on the <…..> as a primary key "
+    " join <…..> with <…..> on <…..> as primary key "
   
-  " join <…..> with <…..> on <…..> as primary key "
-  
-  _Write an SQL query to join customer table with the product sales tables on product ID as primary key (ChatGPT)_
-  
-  _Join customer table with the product sales table on product ID as primary key (dbsensei)_
+    _Write an SQL query to join customer table with the product sales tables on product ID as primary key (ChatGPT)_
+    _Join customer table with the product sales table on product ID as primary key (dbsensei)_
 
 
 Create database:
   
-  " Write a <…..> query to Create a database on <…..>, create a <….> and insert values in these tables "
+    " Write a <…..> query to Create a database on <…..>, create a <….> and insert values in these tables "
+    " Create a database on <…..>, create tables, insert values "
   
-  " Create a database on <…..>, create tables, insert values "
-  
-  _Write a SQL query to Create a database on sales, create a customer table, a sales table, a product table and insert values in these tables (ChatGPT)_
-  
-_Create a database on customers and sales, create tables, insert values (dbsensei)_
+    _Write a SQL query to Create a database on sales, create a customer table, a sales table, a product table and insert values in these tables (ChatGPT)_
+    _Create a database on customers and sales, create tables, insert values (dbsensei)_
