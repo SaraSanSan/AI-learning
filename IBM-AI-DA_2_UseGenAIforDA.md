@@ -1,6 +1,6 @@
 # | Generative AI: Enhance your Data Analytics Career |
 
-# USE OF GENERATIVE AI FOR DATA ANALYTICS
+# → USE OF GENERATIVE AI FOR DATA ANALYTICS
 
 In this module, you will have the skills and knowledge to effectively use Generative AI to derive insights, create visually compelling data representations, and construct interactive dashboards for data analytics pipelines. You will also understand the importance of ethical practices in utilizing generative models for data analytics.
 
