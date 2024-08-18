@@ -1367,9 +1367,9 @@ Sigma, Workato, DataRobot, and H20.AI.
 
 
 
-# WRAP-UP MODULE 1
+# WRAP-UP Module 1
 
-## SUMMARY DA & AI
+## SUMMARY 1
 
 At this point in the course, you know:
 
@@ -1394,7 +1394,7 @@ At this point in the course, you know:
 - Crystal from iGenius connects business and data teams through conversational AI.
 
 
-## CHEATSHEET
+## CHEATSHEET 1
 
 ### Important Terms:
 
